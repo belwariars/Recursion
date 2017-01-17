@@ -1,6 +1,6 @@
 // Reverse Stack using Recursion...
 
-// TIME COMPLEXITY: O(N)    SPACE COMPLEXITY : one original stack and 2 internal stack of reverse1 & reverse2 are used so, O(N+N+N) = O(3N) = O(N)
+// TIME COMPLEXITY: O(N^2)    SPACE COMPLEXITY : one original stack and 2 internal stack of reverse1 & reverse2 are used so, O(N+N+N) = O(3N) = O(N)
 
 #include <bits/stdc++.h>
 using namespace std;
